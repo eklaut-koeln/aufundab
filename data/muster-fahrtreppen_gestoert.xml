@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:FeatureCollection xmlns="http://www.opengis.net/wfs" xmlns:wfs="http://www.opengis.net/wfs" xmlns:gml="http://www.opengis.net/gml" 
+xmlns:OPENDATA="OPENDATA" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wfs http://online-service.kvb-koeln.de:80/geoserver/schemas/wfs/1.0.0/WFS-basic.xsd OPENDATA http://online-service.kvb-koeln.de:80/geoserver/OPENDATA/wfs?service=WFS&amp;version=1.0.0&amp;request=DescribeFeatureType&amp;typeName=OPENDATA%3Afahrtreppen_gestoert">
+  <gml:boundedBy>
+    <gml:null>unknown</gml:null>
+  </gml:boundedBy>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7208">
+      <OPENDATA:Kennung>003-51</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Fahrtrichtung Ebertplatz</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.96401678,50.95411185</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>34</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7209">
+      <OPENDATA:Kennung>018-57</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Severinstor abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95925181,50.92183647</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>18</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_720a">
+      <OPENDATA:Kennung>092-56</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene - Gleis Richtung Kalk Post</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">7.00842597,50.93895723</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>513</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_720b">
+      <OPENDATA:Kennung>021-58</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene Passage Breite Str. - Gleis Richtung Dom/Friesenplatz</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95048238,50.93917142</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>7</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_720c">
+      <OPENDATA:Kennung>053-52</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Parkgürtel - Fahrtrichtung Holweide</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.93968015,50.96824599</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>325</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_720d">
+      <OPENDATA:Kennung>159-54</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene - Gleis 2</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.93297909,50.94357398</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>31</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_720e">
+      <OPENDATA:Kennung>022-53</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene - Gleis 3, Fahrtrichtung Dom/Hbf</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95035512,50.94120604</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>7</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_720f">
+      <OPENDATA:Kennung>156-53</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene Nord - Mittelbahnsteig aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.91536281,50.95106514</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>251</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7210">
+      <OPENDATA:Kennung>091-53</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Köln Arcaden abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.99820693,50.93763997</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>512</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7211">
+      <OPENDATA:Kennung>034-59</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Neumarkt, Gleis 4</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.94853193,50.935802</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>2</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7212">
+      <OPENDATA:Kennung>156-59</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene Süd - Mittelbahnsteig abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.91654502,50.95029293</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>251</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7213">
+      <OPENDATA:Kennung>156-55</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Venloer Str./Helioshaus</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.91630024,50.95041737</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>251</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7214">
+      <OPENDATA:Kennung>083-54</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Gleis 3, Richtung Koelnmesse, abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.97867133,50.93923307</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>41</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7215">
+      <OPENDATA:Kennung>091-52</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Köln Arcaden aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.99896885,50.9376643</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>512</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7216">
+      <OPENDATA:Kennung>083-56</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Gleis 3, Richtung Suevenstr., abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.97852859,50.93928262</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>41</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7217">
+      <OPENDATA:Kennung>034-54</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Schildergasse aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.94923091,50.93637793</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>2</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7218">
+      <OPENDATA:Kennung>011-51</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Halle Hbf - Zwischenebene Ost</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95830189,50.94225598</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>8</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7219">
+      <OPENDATA:Kennung>011-53</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene Ost - Gleis 1 (Breslauer Platz/Rathaus)  aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95799548,50.94174754</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>8</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_721a">
+      <OPENDATA:Kennung>061-52</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Frankfurter Str. abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">7.01168783,50.95734088</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>572</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_721b">
+      <OPENDATA:Kennung>011-54</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Andreaskloster</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95553606,50.94188893</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>8</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_721c">
+      <OPENDATA:Kennung>034-55</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Schildergasse abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.94923256,50.93642394</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>2</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_721d">
+      <OPENDATA:Kennung>092-52</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Kapellenstr.</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">7.00830477,50.938646</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>513</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_721e">
+      <OPENDATA:Kennung>002-62</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Riehler Str./Th.-Heuss-Ring</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95966716,50.95115307</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>35</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_721f">
+      <OPENDATA:Kennung>092-52</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Kapellenstr.</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">7.00830477,50.938646</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>513</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7220">
+      <OPENDATA:Kennung>006-52</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Florastr.</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.9538618,50.96503425</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>304</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7221">
+      <OPENDATA:Kennung>156-60</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene Süd - Mittelbahnsteig aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.91652633,50.95028285</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>251</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7222">
+      <OPENDATA:Kennung>141-56</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Hohenzollernring aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.93883399,50.93677619</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>27</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7223">
+      <OPENDATA:Kennung>034-56</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Gleis 1 - Hugo-Passage</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.94907081,50.93557694</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>2</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7224">
+      <OPENDATA:Kennung>083-55</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Gleis 3, Richtung Koelnmesse, aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.97863548,50.93924861</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>41</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7225">
+      <OPENDATA:Kennung>021-58</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene Passage Breite Str. - Gleis Richtung Dom/Friesenplatz</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95048238,50.93917142</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>7</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7226">
+      <OPENDATA:Kennung>007-52</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Fahrtrichtung Amsterdamer Str./Gürtel abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.95135839,50.97226651</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>303</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7227">
+      <OPENDATA:Kennung>156-56</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene - Gleis 3 aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.91639949,50.95002422</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>251</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7228">
+      <OPENDATA:Kennung>092-53</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Ausgang Steprathstr./Rathaus abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">7.00864855,50.93914003</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>513</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_7229">
+      <OPENDATA:Kennung>083-61</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene West - Gleis 2, Richtung Deutz Technische Hochschule aufwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">6.97725431,50.93982356</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>41</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+  <gml:featureMember>
+    <OPENDATA:fahrtreppen_gestoert fid="fahrtreppen_gestoert.fid-26cff79a_16228f8df79_722a">
+      <OPENDATA:Kennung>060-56</OPENDATA:Kennung>
+      <OPENDATA:Bezeichnung>Zwischenebene - Gleis 3,4 abwärts</OPENDATA:Bezeichnung>
+      <OPENDATA:Koordinate>
+        <gml:Point srsName="http://www.opengis.net/gml/srs/epsg.xml#4326">
+          <gml:coordinates xmlns:gml="http://www.opengis.net/gml" decimal="." cs="," ts=" ">7.00406683,50.96158329</gml:coordinates>
+        </gml:Point>
+      </OPENDATA:Koordinate>
+      <OPENDATA:Haltestellenbereich>570</OPENDATA:Haltestellenbereich>
+      <OPENDATA:timestamp>2018-03-15T21:24:08</OPENDATA:timestamp>
+    </OPENDATA:fahrtreppen_gestoert>
+  </gml:featureMember>
+</wfs:FeatureCollection>
